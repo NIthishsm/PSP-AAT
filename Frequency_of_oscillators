@@ -10,7 +10,7 @@ int main()
 
     printf("Enter 1 for Tuned Collector Oscillator \n"); 
     printf("Enter 2 for Hartley Oscillator \n");
-    printf("Enter 3 for Collpittls Oscillator \n");
+    printf("Enter 3 for Colpitts Oscillator \n");
     printf("Enter 4 for Transistor Crystal Oscillator \n");
     printf("Enter 5 for Phase Shift Oscillator \n");
     printf("Enter 6 for Wein Bridge Oscillator Oscillator \n");
